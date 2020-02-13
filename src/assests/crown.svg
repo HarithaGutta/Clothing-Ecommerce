@@ -1,0 +1,24 @@
+<svg width="50" height="39" xmlns="http://www.w3.org/2000/svg">
+ <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+
+ <title>Group</title>
+ <desc>Created with Sketch.</desc>
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="402" width="582" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g fill-rule="evenodd" fill="none" id="WiP">
+   <g stroke="null" id="Artboard">
+    <g stroke="null" id="Group">
+     <polygon stroke="null" points="3.935261528832399,13.282050778140956 26.999997558958313,25.141026802552005 50.06473591426882,13.282050778140956 43.62251901786138,36.999999046325684 10.313941012266383,36.999999046325684 " fill="#808282" id="Rectangle"/>
+     <polygon stroke="null" points="26.999997558958313,7.5897435718403585 42.725955739868624,36.999999046325684 11.274041703232598,36.999999046325684 " fill="#101A1A" fill-opacity="0.262839" id="Triangle"/>
+     <circle stroke="null" r="1.750454" cy="8.538462" cx="2.886865" fill="#5E6363" id="Oval"/>
+     <circle stroke="null" r="1.750455" cy="1.897436" cx="26.999998" fill="#5E6363" id="Oval"/>
+     <circle stroke="null" r="1.750455" cy="8.538462" cx="51.113131" fill="#5E6363" id="Oval"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
