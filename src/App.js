@@ -4,7 +4,7 @@ import Homepage from "./pages/homepage/homepage.component";
 import { Switch, Route } from "react-router-dom";
 import ShopPage from "./pages/shop/shop.component.jsx";
 import Header from "./components/header/header.component.jsx";
-import SignInAndSignUpPage from "./pages/sign-in and sign-up/sign-in and sign-up.component.jsx";
+import CheckoutPage from "./pages/checkout/checkout.component.jsx";
 
 function App() {
   return (
@@ -13,7 +13,7 @@ function App() {
       <Switch>
         <Route exact path="/" component={Homepage} />
         <Route path="/shop" component={ShopPage} />
-        <Route path="/signin" component={SignInAndSignUpPage} />
+        <Route exact path="/checkout" component={CheckoutPage} />
       </Switch>
     </div>
   );

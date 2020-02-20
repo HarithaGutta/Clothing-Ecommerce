@@ -1,7 +1,9 @@
 import React from "react";
 import "./header.styles.scss";
 import { Link } from "react-router-dom";
-import { ReactComponent as Logo } from "../../assests/crown.svg";
+import CartIcon from "../cart-icon/cart-icon.component.jsx";
+import CartDropdown from "../cart-dropdown/cart-dropdown.component.jsx";
+import { ReactComponent as Logo } from "../../assets/crown.svg";
 const Header = () => (
   <div className="header">
     <Link className="logo-container" to="/">
@@ -17,7 +19,9 @@ const Header = () => (
       <Link className="option" to="/signin">
         SIGN IN
       </Link>
+      <CartIcon />
     </div>
+    <CartDropdown />
   </div>
 );
 export default Header;
